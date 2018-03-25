@@ -89,6 +89,8 @@ public class Main2Activity extends AppCompatActivity
         arr=new ArrayList<>();
         arr.add("9885810277");
         arr.add("9652303981");
+        arr.add("9492188872");
+        arr.add("9700677460");
 
         mAuth = FirebaseAuth.getInstance();
 
